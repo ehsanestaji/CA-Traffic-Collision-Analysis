@@ -6,9 +6,7 @@
 - [Analysis Steps](#analysis-steps)
 - [Visualizations](#visualizations)
 - [Technologies and Libraries](#technologies-and-libraries)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 This project aims to explore, understand, and analyze traffic collisions in California. It delves into various aspects like factors contributing to collisions, time-series trends, and geospatial hotspots. The data is organized in SQLite tables such as `case_ids`, `collisions`, `victims`, and `parties`, providing a comprehensive view of traffic incidents.
